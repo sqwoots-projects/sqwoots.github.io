@@ -1,18 +1,28 @@
 {
   "date": "2026-03-25",
-  "weather": "Seoul — 12°C, Cloudy",
+  "weather": "Seoul — 14°C, Sunny",
   "ai": [
     {
-      "title": "OpenAI releases new model",
-      "url": "https://example.com",
-      "source": "TechCrunch"
+      "title": "OpenAI launches a new feature",
+      "url": "https://openai.com",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Anthropic announces model updates",
+      "url": "https://www.anthropic.com",
+      "source": "Anthropic"
     }
   ],
   "world": [
     {
-      "title": "Global markets update",
-      "url": "https://example.com",
+      "title": "Major global markets move on policy news",
+      "url": "https://www.reuters.com",
       "source": "Reuters"
+    },
+    {
+      "title": "New international summit focuses on security",
+      "url": "https://www.bbc.com",
+      "source": "BBC"
     }
   ]
 }
